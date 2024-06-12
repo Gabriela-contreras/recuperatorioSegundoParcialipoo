@@ -4,7 +4,7 @@ include_once("Canal.php");
 include_once("Cliente.php");
 include_once("Contrato.php");
 include_once("ContratoOficina.php");
-include_once("ContratoViaWeb.php");
+include_once("ContrartoViaWeb.php");
 include_once("Plan.php");
 include_once("EmpresaCable.php");
 
